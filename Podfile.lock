@@ -1,0 +1,28 @@
+PODS:
+  - R.swift (7.3.2)
+  - SwiftSpinner (2.2.0)
+  - Toaster (2.3.0)
+  - TrxHostsMSDKCore (1.0.0)
+
+DEPENDENCIES:
+  - R.swift
+  - SwiftSpinner
+  - Toaster
+  - TrxHostsMSDKCore
+
+SPEC REPOS:
+  trunk:
+    - R.swift
+    - SwiftSpinner
+    - Toaster
+    - TrxHostsMSDKCore
+
+SPEC CHECKSUMS:
+  R.swift: 0af0d882f49f03711415cb4e5215daa977d8a480
+  SwiftSpinner: f9b59477fe107427f2b5b835497d6636fa167ede
+  Toaster: c3473963c78e8cabbf6ea6f11ad0fdaae6f54987
+  TrxHostsMSDKCore: a6ceefab825e03f8c1786db9e2fdda201dafb021
+
+PODFILE CHECKSUM: 1b0dd295ff0ed8ff989a4bc016bf5e2db4dbd319
+
+COCOAPODS: 1.12.1
